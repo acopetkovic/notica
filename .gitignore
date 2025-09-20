@@ -81,6 +81,12 @@ coverage/
 # Yarn Integrity file
 .yarn-integrity
 
+# Yarn cache and PnP files
+.yarn/cache/
+.yarn/install-state.gz
+.yarn/berry.lock
+.pnp.*
+
 # Local Netlify folder
 .netlify
 
